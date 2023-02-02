@@ -14,3 +14,7 @@
 ```
    docker run -p port:port { -v /app/node_modules } { -v $(pwd):/app } <image id>
 ```
+
+### Deploy with Github Actions
+
+[repository](https://github.com/einaregilsson/beanstalk-deploy)
